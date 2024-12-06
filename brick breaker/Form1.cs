@@ -1,4 +1,12 @@
-﻿using System;
+﻿//
+// =======================================================
+// This is the break breaker Game that is created by Paras.
+// =======================================================
+//Programming 2 (Block 4)
+// =======================================================
+//
+
+using System;
 using System.Drawing;
 using System.Windows.Forms;
 
